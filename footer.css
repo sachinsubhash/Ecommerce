@@ -1,0 +1,230 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.top-footer {
+	padding-bottom: 20px;
+	border-bottom: 1.10133px solid rgba(0, 0, 0, 0.08);
+    display: fexbox;
+}
+
+.googleplay {
+	background: #000 url("https://www.uae.nesto.shop/static/media/gplay.9bdf09a6.svg") no-repeat 50%;
+	margin-bottom: 20px;
+}
+
+img, svg {
+    vertical-align: middle;
+}
+
+.side-row {
+    height: 100% !important;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+svg {
+    border-style: none;
+}
+
+.bannerPhone-one {
+    position: absolute;
+    left: 15%;
+    bottom: 0;
+}
+
+.bannerPhone-two {
+    position: absolute;
+    left: 5px;
+    bottom: 0;
+    z-index: 0;
+}
+
+.appstore {
+	background: #000 url("https://www.uae.nesto.shop/static/media/applestore.988df9a9.svg") no-repeat center;
+	margin-bottom: 20px;
+}
+
+.middle-footer {
+	padding: 20px 0px;
+	border-bottom: 1.10133px solid rgba(0, 0, 0, 0.08);
+	display: block;
+}
+
+.middle-footer-subscribe-button {
+	background-color: #00983d;
+	border-radius: 8px;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 21px;
+	text-align: center;
+	color: #ffffff;
+	padding: 10px 30px;
+	border: 0px;
+}
+
+.w-100 {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+    cursor: pointer;
+}
+
+.col-md-7, .col-md-6 {
+	position: relative;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.middle-footer-info {
+	margin: 0px;
+	font-weight: 500;
+	font-size: 14px;
+	color: #494b4b;
+	padding: 5px 15px;
+	border: 1px solid #f2f2f2;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+
+.col-md-5 {
+	position: relative;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.middle-footer-label {
+	margin: 0px;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.177778px;
+	color: #161d25;
+}
+
+.middle-footer-social {
+	display: flex;
+	justify-content: space-between;
+}
+
+.middle-footer-social-links {
+	display: block;
+	width: 32px;
+	height: 32px;
+	background: transparent;
+	margin-right: 15px;
+	border: 0px;
+}
+
+.cotainer {
+	max-width: 1336px !important;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contact-us {
+	display: flex !important;
+	align-items: center !important;
+	flex-wrap: wrap !important;
+	justify-content: space-between !important;
+	justify-content: start !important;
+}
+
+.dflex {
+	justify-content: flex-end;
+	align-items: center;
+	display: flex;
+}
+
+.fat-footer {
+	box-sizing: border-box;
+	display: flex;
+}
+
+.container-fluid {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+
+.col-md-3 {
+	flex: 0 0 25%;
+	max-width: 25%;
+	text-align: center;
+}
+
+.col-md-9 {
+	flex: 0 0;
+	text-align: right;
+}
+
+.fat-footer-logo {
+	top: -50px;
+	width: 00px;
+}
+
+.fat-footer-bg {
+	background-color: #ffcdcb;
+	padding: 30px !important;
+	float: right;
+}
+
+.fat-footer-list-title {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.177778px;
+	color: #161d25;
+	margin: 0px 0px 15px 0px;
+}
+
+.fat-footer-list-link {
+	display: block;
+	font-size: 14px;
+	line-height: 20px;
+	color: #161d25;
+	margin-bottom: 12px;
+	border: 0px;
+	background-color: transparent;
+}
+
+.fat-footer-base {
+	background-color: #c71712;
+	padding: 15px;
+	display: inline-flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+.fat-footer-rights-info {
+	margin: 0;
+	font-size: 14px;
+	line-height: 20px;
+	color: #ffff;
+	float: left;
+}
+
+.fatfooter-pay-icons {
+	box-sizing: border-box;
+	vertical-align: middle;
+	border-style: none;
+	text-align: left;
+	padding: 0px 0px 0px 750px;
+	float: right;
+}
